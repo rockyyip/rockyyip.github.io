@@ -1,16 +1,20 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-517c35727b7bc8c2b42f.js",
-      "component---src-pages-index-js-517c35727b7bc8c2b42f.js.map"
+      "component---src-pages-index-js-99d93c15ae32e7d5eb4b.js",
+      "component---src-pages-index-js-99d93c15ae32e7d5eb4b.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-c4dbad783f1969508b1e.js",
+      "component---src-pages-contact-js-c4dbad783f1969508b1e.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-16e4ccf0a1b6d67e20b6.js",
-      "component---src-layouts-index-js-16e4ccf0a1b6d67e20b6.js.map"
+      "component---src-layouts-index-js-871143f699a5e8d57b99.js",
+      "component---src-layouts-index-js-871143f699a5e8d57b99.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -21,30 +25,42 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
-      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+      "component---src-pages-404-js-a242fbb8327e5e1f4852.js",
+      "component---src-pages-404-js-a242fbb8327e5e1f4852.js.map"
     ],
     "commons": [
-      "commons-37e7ec241aad23eaba66.js",
-      "commons-37e7ec241aad23eaba66.js.map"
+      "commons-480ab81d4c9d9b68eedb.js",
+      "commons-480ab81d4c9d9b68eedb.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js",
-      "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-b8ca9b85484e4d68b394.js",
+      "app-cfc3e874baa7a07221f3.js",
       "build-js-styles.css",
-      "app-b8ca9b85484e4d68b394.js.map",
+      "app-cfc3e874baa7a07221f3.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-88e5a8af1b6182ab30a0.js",
+      "component---src-pages-about-js-88e5a8af1b6182ab30a0.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
